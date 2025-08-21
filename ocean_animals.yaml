@@ -1,0 +1,7 @@
+train: C:/Users/user/Desktop/ocean_animals/train/images  # 或你實際 images 路徑
+val:   C:/Users/user/Desktop/ocean_animals/val/images    # 若沒有請從 train 拆一部分出來
+
+nc: 20
+names: ['Clam','Crab','Dolphin','Eel','Fish','JellyFish','Lobster','Octopus','Otter','Puffer',
+        'SeaHorse','SeaRay','Sealion','Shark','Shrimp','Squid','Turtle','Walrus','Seal','Penguin']
+
